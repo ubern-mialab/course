@@ -10,7 +10,7 @@ The figure below shows our medical image analysis (MIA) pipeline with its single
 
 The dashed boxes indicate pre-steps or selections that influence a step. The provided experiments (see :ref:`pre-processing_label` and others) correspond to boxes in the figure. Additionally, we will also have a look at the evaluation of such a pipeline.
 
-.. image:: pics/pipeline.png
+
 
 An in-depth description of the pipeline concept with references for further reading can be found in \[1].
 
