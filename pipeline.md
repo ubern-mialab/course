@@ -12,6 +12,8 @@ The dashed boxes indicate pre-steps or selections that influence a step. The pro
 
 
 
+<figure><img src=".gitbook/assets/pipeline.png" alt=""><figcaption></figcaption></figure>
+
 An in-depth description of the pipeline concept with references for further reading can be found in \[1].
 
 ### References
