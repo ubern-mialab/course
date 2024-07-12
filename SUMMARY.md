@@ -13,15 +13,16 @@
 
 * [Clinical Background](clinical-background.md)
 * [Data](data.md)
+* [Pipeline](pipeline.md)
 
 ## Pipeline
 
-* [Pre-processing](pipeline/pre-processing.md)
-* [Registration](pipeline/registration.md)
-* [Feature Extraction](pipeline/feature-extraction.md)
-* [Voxel-wise tissue Classification](pipeline/voxel-wise-tissue-classification.md)
-* [Post-processing](pipeline/post-processing.md)
-* [Evaluation](pipeline/evaluation.md)
+* [Pre-processing](pipeline-1/pre-processing.md)
+* [Registration](pipeline-1/registration.md)
+* [Feature Extraction](pipeline-1/feature-extraction.md)
+* [Voxel-wise tissue Classification](pipeline-1/voxel-wise-tissue-classification.md)
+* [Post-processing](pipeline-1/post-processing.md)
+* [Evaluation](pipeline-1/evaluation.md)
 
 ## Exercises
 
