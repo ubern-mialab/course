@@ -19,7 +19,7 @@
 
 ## Pipeline
 
-* [Pre-processing](pipeline-1/pre-processing.md)
+* [W1-Pre-processing](pipeline-1/w1-pre-processing.md)
 * [Registration](pipeline-1/registration.md)
 * [Feature Extraction](pipeline-1/feature-extraction.md)
 * [Voxel-wise tissue Classification](pipeline-1/voxel-wise-tissue-classification.md)
