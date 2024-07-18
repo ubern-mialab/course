@@ -8,6 +8,7 @@
 * [Tools](getting-started/tools.md)
 * [Ubelix HPC](getting-started/ubelix-hpc.md)
 * [Integrated Development Environment (IDE)](getting-started/integrated-development-environment-ide.md)
+* [LaTeX](getting-started/latex.md)
 
 ***
 
