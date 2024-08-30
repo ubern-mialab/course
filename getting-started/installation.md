@@ -2,33 +2,33 @@
 
 ## Installation
 
-To start with the installation, download the `Anaconda installer <https://www.anaconda.com/distribution/>`\_ for your operating system with Python >= 3.8.
+To start with the installation, download the [`Anaconda installer`](https://www.anaconda.com/distribution/) for your operating system with Python >= 3.8.
 
 ### Initial Steps
 
 These steps need to be performed for all operating systems.
 
-\#. Create a `Github account <https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home>`\_ (The free account is sufficient).
+\#. Create a [`Github account`](https://github.com/signup?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home) (The free account is sufficient).
 
 \#. Fork the MIALab repository
 
-* Go to the `MIALab repository <https://github.com/ubern-mialab/mialab>`\_
+* Go to the `MIALab repository:`[https://github.com/ubern-mialab/mialab](https://github.com/ubern-mialab/mialab)
 * Fork the MIALab repository by clicking on the `Fork` button in the right upper corner
 * Follow the instructions of Github
-* Go to your MIALab fork (You are at the right location if the text in the left upper corner is of structure `[yourgithubaccount] / mialab`)
-* Click on the green `Clone` button and copy the URL (:bash:`https://github.com/[yourgithubaccount]/mialab.git`) shown. You will later use it for cloning your fork to your local machine and probably to UBELIX.
+* Go to your MIALab fork (You are at the right location if the text in the left upper corner is of structure `[yourgithubaccount]/mialab`)
+* Click on the green `Clone` button and copy the URL (`https://github.com/[yourgithubaccount]/mialab.git`) shown. You will later use it for cloning your fork to your local machine and probably to UBELIX.
 
-\#. Continue with the operating system specific installation instructions
+Continue with the operating system specific installation instructions.
 
 ### Operating System Specific Installation Steps
 
 Select your operating system to get the corresponding installation steps:
 
-.. tab:: Windows
+[**Windows**](#user-content-fn-1)[^1]
 
 The installation has been tested on Windows 10.
 
-\#. git installation
+git installation
 
 ```
   -  Download `git <https://git-scm.com/downloads>`_ and install
@@ -81,113 +81,119 @@ The installation has been tested on Windows 10.
   -  :bash:``python .\test\test_install.py``
 ```
 
-.. tab:: Linux
+**Linux**
 
 Run the following commands in the terminal (tested on Ubuntu 16.04 LTS and 18.04 LTS).
 
-\#. git installation
+git installation
 
 ```
   -  :bash:`sudo apt-get install git`
 ```
 
-\#. Clone your MIALab repository fork
+Clone your MIALab repository fork
 
 ```
-  -  :bash:`cd /path/to/where/you/want/the/code`
-  -  Clone the MIALab repository fork using the URL from the :ref:`installation_initial_steps_label`
-  -  :bash:`git clone https://github.com/[yourgithubaccount]/MIALab.git`
+cd /path/to/where/you/want/the/code
+
+# Clone the MIALab repository fork using the URL above
+
+git clone https://github.com/[yourgithubaccount]/MIALab.git
 ```
 
-\#. Run Anaconda installation script
+Run Anaconda installation script
 
 ```
-  -  Follow the instructions on the `official website <https://docs.anaconda.com/anaconda/install/linux>`__
-  -  No need to install the GUI packages
+Follow the instructions on the `official website <https://docs.anaconda.com/anaconda/install/linux>`__
+No need to install the GUI packages
 ```
 
-\#. Verify the installation
+Verify the installation
 
 ```
-  -  :bash:`conda list`, which should list all installed Anaconda packages
+conda list #which should list all installed Anaconda packages
 ```
 
-\#. Create a new Python 3.8 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
+Create a new Python 3.8 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
 
 ```
-  -  :bash:`conda create -n mialab python=3.8`
+conda create -n mialab python=3.8
 ```
 
-\#. Activate the environment by
+Activate the environment by
 
 ```
-  -  :bash:`conda activate mialab`
+conda activate mialab
 ```
 
-\#. Install all required packages for the MIALab
+Install all required packages for the MIALab
 
 ```
   -  :bash:`cd /path/to/MIALab/repository`
   -  :bash:`pip install -r requirements.txt` will install all required packages
 ```
 
-\#. Execute the hello world to verify the installation
+Execute the hello world to verify the installation
 
 ```
   -  :bash:`python ./test/test_install.py`
 ```
 
-.. tab:: macOS
+**macOS**
 
 The installation has not been tested.
 
-\#. git installation
+git installation
 
 ```
   -  Download `git <https://git-scm.com/downloads>`_ and install
 ```
 
-\#. Clone your MIALab repository fork
+Clone your MIALab repository fork&#x20;
 
 ```
-  -  :bash:`cd /path/to/where/you/want/the/code`
-  -  Clone the MIALab repository fork using the URL from the :ref:`installation_initial_steps_label`
-  -  :bash:`git clone https://github.com/[yourgithubaccount]/MIALab.git`
+cd /path/to/where/you/want/the/code
 ```
 
-\#. Anaconda installation
+Clone the MIALab repository fork using the URL from the :ref:\`installation\_initial\_steps\_label
 
 ```
-  -  Follow the instructions on the `official website <https://docs.anaconda.com/anaconda/install/mac-os/>`__
+git clone https://github.com/[yourgithubaccount]/MIALab.git
 ```
 
-\#. Verify the installation
+Anaconda installation&#x20;
+
+Follow the instructions on the [`official website`](https://docs.anaconda.com/anaconda/install/mac-os/)
+
+Verify the installation
 
 ```
-  -  :bash:`conda list`, which should list all installed Anaconda packages
+conda list # which should list all installed Anaconda packages
 ```
 
-\#. Create a new Python 3.8 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
+Create a new Python 3.8 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
 
 ```
-  -  :bash:`conda create -n mialab python=3.8`
+conda create -n mialab python=3.8
 ```
 
-\#. Activate the environment by
+Activate the environment by
 
 ```
-  -  :bash:`conda activate mialab`
+conda activate mialab
 ```
 
-\#. Install all required packages for the MIALab
+Install all required packages for the MIALab
 
 ```
-  -  :bash:`cd /path/to/MIALab/repository`
-  -  :bash:`pip install -r requirements.txt` will install all required packages
+cd /path/to/MIALab/repository
+pip install -r requirements.txt #will install all required packages
 ```
 
-\#. Execute the installation test script to verify if all the dependencies are setup correctly.
+Execute the installation test script to verify if all the dependencies are setup correctly.
 
 ```
-  -  :bash:`python ./test/test_install.py`
+python ./test/test_install.py
 ```
+
+[^1]: 
