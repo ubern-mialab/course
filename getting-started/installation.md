@@ -14,13 +14,15 @@ These steps need to be performed for all operating systems.
    2. Fork the repository by clicking on the `Fork` button in the right upper corner.
    3. Follow the instructions on Github.
    4. Go to your MIALab fork (You are at the right location if the text in the left upper corner is of structure `[yourgithubaccount]/mialab`)
-   5. Click on the green `Clone` button and copy the URL (https://github.com/\[yourgithubaccount]/mialab.git) shown. You will later use it for cloning your fork to your local machine and probably to UBELIX.
+   5. Click on the green `Clone` button and copy the URL (https://github.com/\[yourgithubaccount]/mialab.git) shown. You will later use it for cloning your fork to your local machine and probably to [UBELIX](ubelix-hpc.md).
 
 Continue with the operating system specific installation instructions, below.
 
 ### Operating System Specific Installation Steps
 
-[**Windows**](#user-content-fn-1)[^1]
+{% tabs %}
+{% tab title="Windows" %}
+
 
 The installation has been tested on Windows 10.
 
@@ -35,7 +37,7 @@ Clone your MIALab repository fork - Open "Git Bash"
 ```
 cd \path\to\where\you\want\the\code
 
-#Clone the MIALab repository fork using the URL from the :ref:`installation_initial_steps_label`
+# Clone the MIALab repository fork using the URL from the :ref:`installation_initial_steps_label`
 git clone https://github.com/[yourgithubaccount]/MIALab.git
 ```
 
@@ -67,15 +69,9 @@ Install all required packages for the MIALab
 cd \path\to\MIALab\repository
 pip install -r requirements.txt #will install all required packages
 ```
+{% endtab %}
 
-Execute the hello world to verify the installation
-
-```
-python .\test\test_install.py
-```
-
-**Linux**
-
+{% tab title="Linux" %}
 Run the following commands in the terminal (tested on Ubuntu 16.04 LTS and 18.04 LTS).
 
 git installation
@@ -125,15 +121,9 @@ Install all required packages for the MIALab
 cd /path/to/MIALab/repository
 pip install -r requirements.txt #will install all required packages
 ```
+{% endtab %}
 
-Execute the hello world to verify the installation
-
-```
-python ./test/test_install.py
-```
-
-**macOS**
-
+{% tab title="macOS" %}
 The installation has not been tested.
 
 git installation
@@ -182,11 +172,11 @@ Install all required packages for the MIALab
 cd /path/to/MIALab/repository
 pip install -r requirements.txt #will install all required packages
 ```
+{% endtab %}
+{% endtabs %}
 
 Execute the installation test script to verify if all the dependencies are setup correctly.
 
 ```
 python ./test/test_install.py
 ```
-
-[^1]: 
