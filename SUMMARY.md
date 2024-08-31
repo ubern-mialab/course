@@ -1,25 +1,26 @@
 # Table of contents
 
 * [Medical Image Analysis](README.md)
+* [Schedule](schedule.md)
 
 ## Getting Started
 
 * [Installation](getting-started/installation.md)
+* [IDE](getting-started/ide.md)
 * [Tools](getting-started/tools.md)
-* [Ubelix HPC](getting-started/ubelix-hpc.md)
-* [Integrated Development Environment (IDE)](getting-started/integrated-development-environment-ide.md)
 * [LaTeX](getting-started/latex.md)
 * [Visualization](getting-started/visualization.md)
+* [Ubelix HPC](getting-started/ubelix-hpc.md)
 
 ***
 
 * [Clinical Background](clinical-background.md)
-* [Data](data.md)
 * [Pipeline](pipeline.md)
+* [Data](data.md)
 
 ## Pipeline
 
-* [W1-Pre-processing](pipeline-1/w1-pre-processing.md)
+* [Pre-processing](pipeline-1/pre-processing.md)
 * [Registration](pipeline-1/registration.md)
 * [Feature Extraction](pipeline-1/feature-extraction.md)
 * [Voxel-wise tissue Classification](pipeline-1/voxel-wise-tissue-classification.md)

@@ -1,5 +1,7 @@
 # Ubelix HPC
 
+TODO:
+
 The UBELIX (University of Bern Linux Cluster) is a HPC cluster of the University of Bern. During the MIALab course you can use UBELIX for computing your experiments. Beside this short guide, we recommend reading the `official documentation of UBELIX <https://hpc-unibe-ch.github.io/>`\_.
 
 The access to the UBELIX HPC is only granted to students officially enrolled at the University of Bern.
@@ -153,3 +155,11 @@ Be aware of the paths inside the job script! Use relative paths from the locatio
 * Cancel a job via :bash:`scancel [yourjobid]`
 
 Cancel jobs which contain errors such that other users can use the allocated resources.
+
+
+
+{% file src="../.gitbook/assets/template_jobscript.sh" %}
+
+
+
+{% file src="../.gitbook/assets/create_ubelix_env.sh" %}

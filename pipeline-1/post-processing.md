@@ -1,5 +1,7 @@
 # Post-processing
 
+TODO: also list project ideas in this component.
+
 Can we leverage the segmentation performance by post-processing?
 
 * Morphological operators

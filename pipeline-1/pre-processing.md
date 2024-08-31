@@ -1,5 +1,7 @@
 # Pre-processing
 
+TODO: also list project ideas in this component.
+
 Investigate the influence of pre-processing on the segmentation performance.
 
 * Image smoothing / noise reduction

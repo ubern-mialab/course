@@ -1,14 +1,14 @@
 # Pipeline
 
-The figure below shows our medical image analysis (MIA) pipeline with its single steps. Our pipeline has as input two magnetic resonance (MR) image slices (i.e., a T1-weighted (T1w) image slice and a T2-weighted (T2w) image slice) and a segmentation of the brain into the structures described previously (see :ref:`background_label`). The pipeline itself consists of the following steps:
+The figure below shows our medical image analysis (MIA) pipeline with its individual steps. Our pipeline has as input two magnetic resonance (MR) image slices (i.e., a T1-weighted (T1w) image slice and a T2-weighted (T2w) image slice) and a segmentation of the brain into constituent structures (see [clinical background](clinical-background.md)). The pipeline itself consists of the following steps:
 
-* Registration, which aims at aligning the two MR images
-* Pre-processing, which aims at improving the image quality for our machine learning algorithm
-* Feature extraction, which aims to extract meaningful features from the MR images for the subsequent classification
-* Classification, which performs a voxel-wise tissue classification using the extracted features
-* Post-processing, which aims to improve the classification
+* [Pre-processing](pipeline-1/pre-processing.md), which aims at improving the image quality for our machine learning algorithm
+* [Registration](pipeline-1/registration.md), which aims at aligning the two MR images
+* [Feature extraction](pipeline-1/feature-extraction.md), which aims to extract meaningful features from the MR images for the subsequent classification
+* [Classification](pipeline-1/voxel-wise-tissue-classification.md), which performs a voxel-wise tissue classification using the extracted features
+* [Post-processing](pipeline-1/post-processing.md), which aims to improve the classification.
 
-The dashed boxes indicate pre-steps or selections that influence a step. The provided experiments (see :ref:`pre-processing_label` and others) correspond to boxes in the figure. Additionally, we will also have a look at the evaluation of such a pipeline.
+The dashed boxes indicate pre-steps or selections that influence a step. The provided experiments (see [pre-processing](pipeline-1/pre-processing.md) and others) correspond to boxes in the figure. Additionally, we will also have a look at the [evaluation](pipeline-1/evaluation.md) of such a pipeline.
 
 
 

@@ -1,5 +1,7 @@
 # Feature Extraction
 
+TODO: also list project ideas in this component.
+
 What features could be used to improve our model?
 
 * Investigate other features

@@ -2,7 +2,7 @@
 
 ## Clinical Background
 
-In the MIALab, we are segmenting structures of the human brain. Thus, we focus on the most prominent medical imaging analysis (MIA) task, segmentation, and do it in the most prominent area in MIA, the human brain, on magnetic resonance (MR) images. Segmenting brain structures from MR images is important, e.g., for tracking progression in neurodegenerative diseases by the atrophy of brain tissue \[1]_. Performing the segmentation task manually is time-consuming, user-dependent, and costly \[2]_. Think about being a neuroradiologist who needs to segment the brain of every scanned patient. This is why we aim for an automated machine learning (ML) approach.
+In the MIA Lab, we are segmenting structures of the human brain. Thus, we focus on the most prominent medical imaging analysis (MIA) task, segmentation, and do it in the most prominent area in MIA, the human brain, on magnetic resonance (MR) images. Segmenting brain structures from MR images is important, e.g., for tracking progression in neurodegenerative diseases by the atrophy of brain tissue \[1]_. Performing the segmentation task manually is time-consuming, user-dependent, and costly \[2]_. Think about being a neuroradiologist who needs to segment the brain of every scanned patient. This is why we aim for an automated machine learning (ML) approach.
 
 The pipeline aims to classify each voxel of a brain MR image in one of the following classes:
 

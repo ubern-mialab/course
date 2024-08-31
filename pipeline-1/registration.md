@@ -1,5 +1,7 @@
 # Registration
 
+TODO: also list project ideas in this component.
+
 What is the optimal setting to register the images to an atlas?
 
 * Transformation type

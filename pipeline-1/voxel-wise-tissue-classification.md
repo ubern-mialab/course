@@ -1,5 +1,7 @@
 # Voxel-wise tissue Classification
 
+TODO: also list project ideas in this component.
+
 Do other machine learning algorithms perform better on our task? Can we improve the segmentation performance by parameter tuning?
 
 * Overfitting
