@@ -14,7 +14,7 @@ These steps need to be performed for all operating systems.
    2. Fork the repository by clicking on the `Fork` button in the right upper corner.
    3. Follow the instructions on Github.
    4. Go to your MIALab fork (You are at the right location if the text in the left upper corner is of structure `[yourgithubaccount]/mialab`)
-   5. Click on the green `Clone` button and copy the URL (https://github.com/\[yourgithubaccount]/mialab.git) shown. You will later use it for cloning your fork to your local machine and probably to [UBELIX](ubelix-hpc.md).
+   5. Click on the green `Clone` button and copy the URL (https://github.com/\[yourgithubaccount]/mialab.git) shown. You will later use it for cloning your fork to your local machine and probably to [UBELIX](tools/ubelix-hpc.md).
 
 Continue with the operating system specific installation instructions, below.
 
@@ -173,8 +173,8 @@ python ./test/test_install.py
 
 ### Setting up the IDE
 
-Next, move to the [IDE page](ide.md) to setup your favorite development environment to be maximally productive with the code involved with this course!&#x20;
+Next, move to the [IDE page](tools/ide.md) to setup your favorite development environment to be maximally productive with the code involved with this course!&#x20;
 
 ## MATLAB Installation:
 
-Follow the instructions on the [MathWorks website](https://ch.mathworks.com/academia/tah-portal/universitat-bern-40639324.html) to install MATLAB on your computer. Operating System specific requirements are [here](https://ch.mathworks.com/support/requirements/matlab-system-requirements.html). Once you have MATLAB installed, read through the [MATLAB section of the IDE page ](ide.md#matlab)to learn more about working with this program.
+Follow the instructions on the [MathWorks website](https://ch.mathworks.com/academia/tah-portal/universitat-bern-40639324.html) to install MATLAB on your computer. Operating System specific requirements are [here](https://ch.mathworks.com/support/requirements/matlab-system-requirements.html). Once you have MATLAB installed, read through the [MATLAB section of the IDE page ](tools/ide.md#matlab)to learn more about working with this program.

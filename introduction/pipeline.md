@@ -4,17 +4,17 @@ In a typical medcical image analysis (MIA) process, several sequential algorithm
 
 The pipeline itself consists of the following steps, which we will go over through the duration of this laboratory:
 
-* [Pre-processing](pipeline-1/pre-processing.md), which aims at improving the image quality for our machine learning algorithm
-* [Registration](pipeline-1/registration.md), which aims at aligning the two MR images
-* [Feature extraction](pipeline-1/feature-extraction.md), which aims to extract meaningful features from the MR images for the subsequent classification
-* [Classification](pipeline-1/voxel-wise-tissue-classification.md), which performs a voxel-wise tissue classification using the extracted features
-* [Post-processing](pipeline-1/post-processing.md), which aims to improve the classification.
+* [Pre-processing](../pipeline/pre-processing.md), which aims at improving the image quality for our machine learning algorithm
+* [Registration](../pipeline/registration.md), which aims at aligning the two MR images
+* [Feature extraction](../pipeline/feature-extraction.md), which aims to extract meaningful features from the MR images for the subsequent classification
+* [Classification](../pipeline/voxel-wise-tissue-classification.md), which performs a voxel-wise tissue classification using the extracted features
+* [Post-processing](../pipeline/post-processing.md), which aims to improve the classification.
 
-The dashed boxes indicate pre-steps or selections that influence a step. The provided experiments (see [pre-processing](pipeline-1/pre-processing.md) and others) correspond to boxes in the figure. Additionally, we will also have a look at the [evaluation](pipeline-1/evaluation.md) of such a pipeline.
+The dashed boxes indicate pre-steps or selections that influence a step. The provided experiments (see [pre-processing](../pipeline/pre-processing.md) and others) correspond to boxes in the figure. Additionally, we will also have a look at the [evaluation](../pipeline/evaluation.md) of such a pipeline.
 
 
 
-<figure><img src=".gitbook/assets/pipeline.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pipeline.png" alt=""><figcaption></figcaption></figure>
 
 An in-depth description of the pipeline with references for further reading can be found in \[1].
 

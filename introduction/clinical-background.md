@@ -29,7 +29,7 @@ The Unmet Clinical Need: Performing the segmentation task manually is time-consu
 
 An example sagittal image slice is shown in the figure below, where the label image (reference segmentation referred to as ground truth or simply labels) is shown next to the two available MR images (T1-weighted and T2-weighted).
 
-<figure><img src=".gitbook/assets/background.png" alt=""><figcaption><p>T1 weighted, T2 weighted, and the segmented image on a sagittal slice of the Human Brain.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/background.png" alt=""><figcaption><p>T1 weighted, T2 weighted, and the segmented image on a sagittal slice of the Human Brain.</p></figcaption></figure>
 
 ### References
 

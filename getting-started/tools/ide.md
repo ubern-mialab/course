@@ -6,7 +6,7 @@ description: This page describes details about coding environment options you ca
 
 ### **PyCharm**
 
-<figure><img src="../.gitbook/assets/pycharm-interface.png" alt=""><figcaption><p>Credits: <a href="https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html">https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pycharm-interface.png" alt=""><figcaption><p>Credits: <a href="https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html">https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html</a></p></figcaption></figure>
 
 We recommend using [JetBrains PyCharm](https://www.jetbrains.com/pycharm/) to program in Python. The community edition is open-source and sufficient for our purpose, but you can also access the [professional version](https://www.jetbrains.com/products/compare/?product=pycharm\&product=pycharm-ce) with a student ID.&#x20;
 
@@ -40,7 +40,7 @@ To open the MIA Lab as project and to configure the Python interpreter do the fo
 
 ### Visual Studio Code
 
-<figure><img src="../.gitbook/assets/visual-studio-code.png" alt=""><figcaption><p>Credits: <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/2-what-is-visual-studio-code">https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/2-what-is-visual-studio-code</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/visual-studio-code.png" alt=""><figcaption><p>Credits: <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/2-what-is-visual-studio-code">https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/2-what-is-visual-studio-code</a></p></figcaption></figure>
 
 **Visual Studio Code (VS Code)** is a powerful code editor designed for developers. Its interface is user-friendly and includes the following panels:
 
@@ -61,7 +61,7 @@ TODO
 
 The **MATLAB Integrated Development Environment (IDE)** from MathWorks is an easy-to-use tool for interactive programming. You will use this IDE only in the situation that you follow the [mia-matlab](https://github.com/ubern-mialab/mia-matlab) repository for the project. Here are the various IDE panels to be familiar with:
 
-<figure><img src="../.gitbook/assets/matlab-ide.png" alt=""><figcaption><p>Credits:  <a href="https://ch.mathworks.com/help/matlab/learn_matlab/desktop.html">https://ch.mathworks.com/help/matlab/learn_matlab/desktop.html</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/matlab-ide.png" alt=""><figcaption><p>Credits:  <a href="https://ch.mathworks.com/help/matlab/learn_matlab/desktop.html">https://ch.mathworks.com/help/matlab/learn_matlab/desktop.html</a></p></figcaption></figure>
 
 * **Home Tab**: Provides quick access to common tasks like creating scripts, managing files, and setting preferences.
 * **Editor Tab**: A dedicated space for writing, editing, and debugging code with syntax highlighting and code folding.

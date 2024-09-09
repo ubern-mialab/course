@@ -1,31 +1,31 @@
 # Table of contents
 
 * [MIA: Medical Image Analysis](README.md)
-* [Schedule (Autumn 2024)](schedule-autumn-2024.md)
 
 ## Getting Started
 
+* [Schedule (Autumn 2024)](getting-started/schedule-autumn-2024.md)
 * [Installation](getting-started/installation.md)
-* [IDE](getting-started/ide.md)
-* [Tools](getting-started/tools.md)
+* [Tools](getting-started/tools/README.md)
+  * [IDE](getting-started/tools/ide.md)
+  * [Ubelix HPC](getting-started/tools/ubelix-hpc.md)
 * [LaTeX](getting-started/latex.md)
 * [Visualization](getting-started/visualization.md)
-* [Ubelix HPC](getting-started/ubelix-hpc.md)
 
-***
+## INTRODUCTION
 
-* [Clinical Background](clinical-background.md)
-* [Pipeline](pipeline.md)
-* [Data](data.md)
+* [Clinical Background](introduction/clinical-background.md)
+* [Pipeline](introduction/pipeline.md)
+* [Data](introduction/data.md)
 
 ## Pipeline
 
-* [Pre-processing](pipeline-1/pre-processing.md)
-* [Registration](pipeline-1/registration.md)
-* [Feature Extraction](pipeline-1/feature-extraction.md)
-* [Voxel-wise tissue Classification](pipeline-1/voxel-wise-tissue-classification.md)
-* [Post-processing](pipeline-1/post-processing.md)
-* [Evaluation](pipeline-1/evaluation.md)
+* [Pre-processing](pipeline/pre-processing.md)
+* [Registration](pipeline/registration.md)
+* [Feature Extraction](pipeline/feature-extraction.md)
+* [Voxel-wise tissue Classification](pipeline/voxel-wise-tissue-classification.md)
+* [Post-processing](pipeline/post-processing.md)
+* [Evaluation](pipeline/evaluation.md)
 
 ## Exercises
 
