@@ -1,6 +1,10 @@
 # Ubelix HPC
 
-TODO:
+TODO: this page will be updated soon, after which this message will be removed.
+
+
+
+
 
 The UBELIX (University of Bern Linux Cluster) is a HPC cluster of the University of Bern. During the MIALab course you can use UBELIX for computing your experiments. Beside this short guide, we recommend reading the `official documentation of UBELIX <https://hpc-unibe-ch.github.io/>`\_.
 

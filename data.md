@@ -22,7 +22,7 @@ Add these files to the `./data/atlas/` directory.
 
 ### Random Forest Toy Example
 
-The get a feeling of what a random forest, the type of machine learning classifier used to classify voxels in the brain tissues at interest, does, toy example data are provided. The toy example data files in the data directory (`exp1_n2.txt`, ...) are taken from the Sherwood library \[1].
+To get a feeling of what a random forest, the type of machine learning classifier used to classify voxels in the brain tissues at interest, does, toy example data is provided. The toy example data files in the data directory (`exp1_n2.txt`, ...) are taken from the Sherwood library \[1].
 
 ### References
 
