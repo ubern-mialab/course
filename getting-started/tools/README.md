@@ -48,7 +48,7 @@ We use [Python 3.8](https://docs.python.org/3.8/) or later inside an [Anaconda](
 
 ### Writing with LaTeX
 
-[This page](../latex.md) has more details about LaTeX.
+[This page](../report-writing-with-latex.md) has more details about LaTeX.
 
 * [LaTeX Guide](https://en.wikibooks.org/wiki/LaTeX): Installation, basics, elements, etc.
 * [Overleaf](https://www.overleaf.com/): _highly recommended_; Online LaTeX editor, collaborative writing, and publishing tool

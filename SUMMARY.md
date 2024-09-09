@@ -9,23 +9,20 @@
 * [Tools](getting-started/tools/README.md)
   * [IDE](getting-started/tools/ide.md)
   * [Ubelix HPC](getting-started/tools/ubelix-hpc.md)
-* [LaTeX](getting-started/latex.md)
-* [Visualization](getting-started/visualization.md)
+* [Report writing with LaTeX](getting-started/report-writing-with-latex.md)
+* [Visualization for Figures and Presentation](getting-started/visualization-for-figures-and-presentation.md)
 
-## INTRODUCTION
+## TOPICS
 
-* [Clinical Background](introduction/clinical-background.md)
-* [Pipeline](introduction/pipeline.md)
-* [Data](introduction/data.md)
-
-## Pipeline
-
-* [Pre-processing](pipeline/pre-processing.md)
-* [Registration](pipeline/registration.md)
-* [Feature Extraction](pipeline/feature-extraction.md)
-* [Voxel-wise tissue Classification](pipeline/voxel-wise-tissue-classification.md)
-* [Post-processing](pipeline/post-processing.md)
-* [Evaluation](pipeline/evaluation.md)
+* [Clinical Background](topics/clinical-background.md)
+* [Data](topics/data.md)
+* [Pipeline](topics/pipeline/README.md)
+  * [Pre-processing](topics/pipeline/pre-processing.md)
+  * [Registration](topics/pipeline/registration.md)
+  * [Feature Extraction](topics/pipeline/feature-extraction.md)
+  * [Voxel-wise tissue Classification](topics/pipeline/voxel-wise-tissue-classification.md)
+  * [Post-processing](topics/pipeline/post-processing.md)
+  * [Evaluation](topics/pipeline/evaluation.md)
 
 ## Exercises
 

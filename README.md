@@ -4,7 +4,7 @@ description: Welcome to the medical image analysis (MIA) laboratory.
 
 # MIA: Medical Image Analysis
 
-During the MIA Lab you will work on the task of brain tissue segmentation from magnetic resonance (MR) images (see [data](introduction/data.md)). We have set up an entire pipeline to solve this task, specifically:
+During the MIA Lab you will work on the task of brain tissue segmentation from magnetic resonance (MR) images (see [data](topics/data.md)). We have set up an entire pipeline to solve this task, specifically:
 
 * Pre-processing
 * Registration
