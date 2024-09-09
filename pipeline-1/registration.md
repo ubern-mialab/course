@@ -17,12 +17,17 @@ Registration in medical image analysis typically involves the following steps:
 * **Interpolation**: Estimating the intensity values at non-integer coordinates after transformation.
 * **Validation**: Assessing the accuracy of the registration using metrics like mutual information or correlation.
 
+### Project ideas
+
 A common problem is to identify what the optimal setting to register the images to an atlas are. They include:
 
 * Transformation type
 * Metric type
 * Optimizer type
-* Deep learning for image registration
+
+What combinations of these parameters provide best results, and why might this be the case?
+
+Are there advantages in registering using rigid versus non-rigid methods?&#x20;
 
 ### Coding Resources
 
@@ -39,10 +44,6 @@ A common problem is to identify what the optimal setting to register the images 
 [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg): Rigid, affine and non-linear registration of medical images.
 
 [SimpleElastix](https://simpleelastix.github.io/): An extension of SimpleITK.
-
-
-
-TODO: also list project ideas in this component.
 
 ### References
 
