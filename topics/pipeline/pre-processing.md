@@ -26,8 +26,9 @@ Do combinations of pre-processing steps improve the performance additively? If t
 
 Are other more advanced methods of normalization (z-score normalization; z-score with 95% range) better than simple scaling between 0 and 1?
 
-### Coding Resources`pymia.filtering.preprocessing`
+### Coding Resources
 
+* See `pymia.filtering.preprocessing`
 * scikit-learn: [Pre-processing data](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
 * [medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization](http://loli.github.io/medpy/generated/medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization.html#medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization)
 
