@@ -26,7 +26,7 @@ To get a feeling of what a random forest, the type of machine learning classifie
 
 ### References
 
-\[1] Microsoft Research, Sherwood C++ and C# code library for decision forests, 2012. \[Online]. Available: http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/. \[Accessed: 08-Sep-2020].&#x20;
+\[1] Microsoft Research, Sherwood C++ and C# code library for decision forests, 2012. \[Online].[http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/](http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/).
 
 \[2] Van Essen, D.C., Smith, S.M., Barch, D.M., Behrens, T.E., Yacoub, E., Ugurbil, K. and Wu-Minn HCP Consortium, 2013. The WU-Minn human connectome project: an overview_. Neuroimage, 80, pp.62-79._ Accessed from: [http://www.sciencedirect.com/science/article/pii/S1053811913005351](http://www.sciencedirect.com/science/article/pii/S1053811913005351)
 
