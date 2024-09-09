@@ -2,7 +2,9 @@
 
 **LaTeX** (pronounced “LAY-tek” or “LAH-tek”) is a tool for creating professional-looking documents. Unlike programs like Microsoft Word or LibreOffice Writer, where you type and style text directly on the page, LaTeX works differently. You write your document as a plain text file with special commands to format it. Read more about typesetting here:  [https://www.overleaf.com/learn/latex/Learn\_LaTeX\_in\_30\_minutes](https://www.overleaf.com/learn/latex/Learn\_LaTeX\_in\_30\_minutes)
 
+See here for a LaTeX cheat-sheet, including most commonly used commands.&#x20;
 
+{% file src="../.gitbook/assets/latexsheet.pdf" %}
 
 **Templates:**
 
@@ -13,6 +15,16 @@ If you prefer to use a local installation, see below for a .zip file containing 
 {% file src="../.gitbook/assets/IEEE Conference Template.zip" %}
 
 **LaTeX tips:**
+
+Quotation marks are a bit tricky, please use \`\` instead of ''.
+
+\ is a special 'escape' character (bonus points if you are familiar with C strings for the reference), and many symbols you would like to include in the text will depend on proper usage of the backslash.&#x20;
+
+The $ sign is used to format mathematical content, and can be used in-text too. Please consider using these while including any numbers, equations, or simple formulae which are not within the equation space.
+
+Please also consider using the \centering command while including graphics and tables, so they are properly justified.&#x20;
+
+Please also consider using the \cite, \label and \ref commands appropriately while citing papers or resources from the references, and also pointing to other parts of your report (refer to Section \ref{section-one}, where "section-one" is properly labeled, for example).
 
 If you have tables in the report, consider using this table generator: [https://www.tablesgenerator.com/#google\_vignette](https://www.tablesgenerator.com/#google\_vignette)&#x20;
 

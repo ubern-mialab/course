@@ -2,7 +2,7 @@
 
 ## Clinical Background
 
-In the MIA Lab, we are segmenting structures of the human brain. Thus, we focus on the most prominent medical imaging analysis (MIA) task, segmentation, and do it in the most prominent area in MIA, the human brain, on magnetic resonance (MR) images. Segmenting brain structures from MR images is important, e.g., for tracking progression in neurodegenerative diseases by the atrophy of brain tissue \[1]_. Performing the segmentation task manually is time-consuming, user-dependent, and costly \[2]_. Think about being a neuroradiologist who needs to segment the brain of every scanned patient. This is why we aim for an automated machine learning (ML) approach.
+In the MIA (which stands for Medical Image Analysis) Lab, we are segmenting structures of the human brain. Thus, we focus on the most prominent task, segmentation, and do it in the most prominent area in MIA, the human brain, using magnetic resonance (MR) images. Segmenting brain structures from MR images is important, e.g., for tracking progression in neurodegenerative diseases by the atrophy of brain tissue \[1]_._ Performing the segmentation task manually is time-consuming, user-dependent, and costly \[2]. Think about being a neuroradiologist who needs to segment the brain of every scanned patient. This is why we aim for an automated machine learning (ML) approach.
 
 The pipeline aims to classify each voxel of a brain MR image in one of the following classes:
 
@@ -15,7 +15,7 @@ The pipeline aims to classify each voxel of a brain MR image in one of the follo
 
 An example sagittal image slice is shown in the figure below, where the label image (reference segmentation referred to as ground truth or simply labels) is shown next to the two available MR images (T1-weighted and T2-weighted).
 
-<figure><img src=".gitbook/assets/background.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/background.png" alt=""><figcaption><p>T1 weighted, T2 weighted, and the segmented image on a sagittal slice of the Human Brain.</p></figcaption></figure>
 
 ### References
 

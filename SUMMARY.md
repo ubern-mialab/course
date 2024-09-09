@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Medical Image Analysis](README.md)
-* [Schedule](schedule.md)
+* [MIA: Medical Image Analysis](README.md)
+* [Schedule (Autumn 2024)](schedule-autumn-2024.md)
 
 ## Getting Started
 
