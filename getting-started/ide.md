@@ -1,14 +1,30 @@
 ---
-description: This page describes details about the coding environment you will use.
+description: This page describes details about coding environment options you can use.
 ---
 
 # IDE
 
 ### **PyCharm**
 
-We recommend using [JetBrains PyCharm](https://www.jetbrains.com/pycharm/) as an IDE to program in Python. The community edition is open-source and sufficient for our purposes, but you can also access the professional version with a student ID.&#x20;
+<figure><img src="../.gitbook/assets/pycharm-interface.png" alt=""><figcaption><p>Credits: <a href="https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html">https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html</a></p></figcaption></figure>
 
-Follow the [instructions](https://www.jetbrains.com/help/pycharm/requirements-installation-and-launching.html) to install PyCharm.
+We recommend using [JetBrains PyCharm](https://www.jetbrains.com/pycharm/) to program in Python. The community edition is open-source and sufficient for our purpose, but you can also access the [professional version](https://www.jetbrains.com/products/compare/?product=pycharm\&product=pycharm-ce) with a student ID.&#x20;
+
+Follow the [instructions](https://www.jetbrains.com/help/pycharm/requirements-installation-and-launching.html) to install PyCharm. The interface includes:
+
+1. [Window header](https://www.jetbrains.com/help/pycharm/new-ui.html#window\_header) contains a set of widgets which provide quick access to the most popular actions: project, VCS, and run. It also allows you to open [Settings](https://www.jetbrains.com/help/pycharm/configuring-project-and-ide-settings.html).
+2. [Project tool window](https://www.jetbrains.com/help/pycharm/project-tool-window.html) on the left side displays your project files.
+3. [Editor](https://www.jetbrains.com/help/pycharm/using-code-editor.html) on the right side, where you actually write your code, with tabs for easy navigation between open files.
+4. [Context menus](https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html#context-menus) open when you right-click an element of the interface or a code fragment.
+5. [Navigation bar](https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html#navigation-bar) allows you to quickly navigate the project folders and files.
+6. Gutter, the vertical stripe next to the editor, shows the breakpoints you have, and provides a convenient way to [navigate through the code](https://www.jetbrains.com/help/pycharm/navigating-through-the-source-code.html) hierarchy like going to definition/declaration.
+7. Scrollbar, on the right side of the editor, constantly monitoring the quality of your code by running [code inspections](https://www.jetbrains.com/help/pycharm/code-inspection.html). The indicator in the top right-hand corner shows the overall status of code inspections for the entire file.
+8. [Tool windows](https://www.jetbrains.com/help/pycharm/tool-windows.html) are specialized windows attached to the bottom and the sides of the workspace. They provide access to typical tasks such as project management, source code search and navigation, integration with version control systems, running, testing, debugging, and so on.
+9. [The status bar](https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html#status-bar) indicates the status of your project and the entire IDE, and shows various warnings and information messages like file encoding, line separator, inspection profile, and so on.
+
+For more help, watch the [getting started](https://www.jetbrains.com/pycharm/documentation/) videos to get accustomed with the interface.
+
+### **MIAlab in PyCharm**
 
 To open the MIA Lab as project and to configure the Python interpreter do the following:
 
@@ -21,8 +37,6 @@ To open the MIA Lab as project and to configure the Python interpreter do the fo
 7. Confirm by clicking OK.
 8. Open the `test_install.py` (`test`directory) in the navigator.
 9. Right click in the editor > Run 'test\_install'. Runs the test\_install and adds a configuration (see top right corner) to the project. You can add configurations manually under Run > Edit Configurations...
-
-For more help, watch the [getting started](https://www.jetbrains.com/pycharm/documentation/) videos to get accustomed with the interface.
 
 ### Visual Studio Code
 
@@ -39,6 +53,10 @@ For more help, watch the [getting started](https://www.jetbrains.com/pycharm/doc
 
 Microsoft has a [detailed introductory course ](https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/)on Visual Studio Code, describing all the relevant features you would likely use in this course.&#x20;
 
+### **MIAlab in VS Code**
+
+TODO
+
 ### MATLAB
 
 The **MATLAB Integrated Development Environment (IDE)** from MathWorks is an easy-to-use tool for interactive programming. You will use this IDE only in the situation that you follow the [mia-matlab](https://github.com/ubern-mialab/mia-matlab) repository for the project. Here are the various IDE panels to be familiar with:
@@ -54,3 +72,7 @@ The **MATLAB Integrated Development Environment (IDE)** from MathWorks is an eas
 * **Current Folder Panel**: Helps navigate and manage project files.
 
 [Here is an introductory video](https://ch.mathworks.com/videos/introduction-to-matlab-1621968498775.html) describing MATLAB and more features to help you be more productive in your exploration of this course.
+
+### **MIAlab in MATLAB**
+
+TODO

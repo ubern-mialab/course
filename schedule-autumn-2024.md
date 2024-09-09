@@ -1,5 +1,5 @@
 ---
-description: This page lists what pages correspond to lectures in the course.
+description: Listing dates and correspondence between pages and lectures in the course.
 ---
 
 # Schedule (Autumn 2024)

@@ -2,7 +2,7 @@
 
 In a typical medcical image analysis (MIA) process, several sequential algorithmic steps are undertaken, in what is a called a pipeline. This can vary depending on the complexity of the data and the problem statement, and for the purposes of the project in this course, our pipeline has as input two magnetic resonance (MR) image slices (i.e., a T1-weighted (T1w) image slice and a T2-weighted (T2w) image slice) and a segmentation of the brain into constituent structures (see [clinical background](clinical-background.md)).&#x20;
 
-The pipeline itself consists of the following steps:
+The pipeline itself consists of the following steps, which we will go over through the duration of this laboratory:
 
 * [Pre-processing](pipeline-1/pre-processing.md), which aims at improving the image quality for our machine learning algorithm
 * [Registration](pipeline-1/registration.md), which aims at aligning the two MR images
@@ -16,7 +16,7 @@ The dashed boxes indicate pre-steps or selections that influence a step. The pro
 
 <figure><img src=".gitbook/assets/pipeline.png" alt=""><figcaption></figcaption></figure>
 
-An in-depth description of the pipeline concept with references for further reading can be found in \[1].
+An in-depth description of the pipeline with references for further reading can be found in \[1].
 
 ### References
 

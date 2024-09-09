@@ -1,11 +1,8 @@
 ---
-description: >-
-  Welcome to the medical image analysis laboratory (MIA Lab). This repository
-  contains all the code you will need to get started with classical medical
-  image analysis.
+description: Welcome to the medical image analysis (MIA) laboratory.
 ---
 
-# Medical Image Analysis
+# MIA: Medical Image Analysis
 
 During the MIA Lab you will work on the task of brain tissue segmentation from magnetic resonance (MR) images (see [data](data.md)). We have set up an entire pipeline to solve this task, specifically:
 
@@ -16,8 +13,12 @@ During the MIA Lab you will work on the task of brain tissue segmentation from m
 * Post-processing
 * Evaluation
 
-During the laboratory you will get to know the entire pipeline and investigate one of these pipeline elements in-depth (see [pipeline](pipeline.md)). You will get to know and use various libraries and software tools needed in the daily life as biomedical engineer or researcher in the medical image analysis domain (see [tools](getting-started/tools.md)).
+During the laboratory (see [schedule for more specifics](https://app.gitbook.com/u/ZoaipVIBc7hUZBKJRbhs8ysxUu22)) you will learn and implement a complete [pipeline](broken-reference) and investigate one of the elements in-depth. You will get to know and use [various libraries and software tools](getting-started/tools.md) needed in the daily life as biomedical engineer or researcher in the medical image analysis domain.
 
 Enjoy!
 
-Found a bug or have suggestions? [Contact us](https://github.com/orgs/ubern-mialab/people).
+
+
+Found a bug or have suggestions? [Contact us](https://github.com/orgs/ubern-mialab/people),&#x20;
+
+Amith, Shelley, Michael and Prof. Mauricio Reyes, [MIA Lab at the ARTORG Center](https://www.artorg.unibe.ch/research/mia/index\_eng.html).

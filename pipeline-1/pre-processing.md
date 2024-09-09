@@ -22,11 +22,12 @@ Preprocessing in medical image analysis typically involves several key steps:
 
 ### Project ideas
 
+Do combinations of pre-processing steps improve the performance additively? If there is an improvement with denoising, and separately, an improvement with normalization, does implementing both lead to a linear increase in improvements?&#x20;
 
+Are other more advanced methods of normalization (z-score normalization; z-score with 95% range) better than simple scaling between 0 and 1?
 
-### Coding Resources
+### Coding Resources`pymia.filtering.preprocessing`
 
-* `pymia.filtering.preprocessing`
 * scikit-learn: [Pre-processing data](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
 * [medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization](http://loli.github.io/medpy/generated/medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization.html#medpy.filter.IntensityRangeStandardization.IntensityRangeStandardization)
 
