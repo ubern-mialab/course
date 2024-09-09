@@ -28,8 +28,8 @@ To get a feeling of what a random forest, the type of machine learning classifie
 
 \[1] Microsoft Research, Sherwood C++ and C# code library for decision forests, 2012. \[Online]. Available: http://research.microsoft.com/en-us/downloads/52d5b9c3-a638-42a1-94a5-d549e2251728/. \[Accessed: 08-Sep-2020].&#x20;
 
-\[2] Van Essen, D.C., Smith, S.M., Barch, D.M., Behrens, T.E., Yacoub, E., Ugurbil, K. and Wu-Minn HCP Consortium, 2013. `The WU-Minn human connectome project: an overview <http://www.sciencedirect.com/science/article/pii/S1053811913005351>`_. Neuroimage, 80, pp.62-79._&#x20;
+\[2] Van Essen, D.C., Smith, S.M., Barch, D.M., Behrens, T.E., Yacoub, E., Ugurbil, K. and Wu-Minn HCP Consortium, 2013. The WU-Minn human connectome project: an overview_. Neuroimage, 80, pp.62-79._ Accessed from: [http://www.sciencedirect.com/science/article/pii/S1053811913005351](http://www.sciencedirect.com/science/article/pii/S1053811913005351)
 
-\[3] Milchenko, M. and Marcus, D., 2013_. `Obscuring surface anatomy in volumetric imaging data <https://link.springer.com/article/10.1007/s12021-012-9160-3>`_. Neuroinformatics, 11(1), pp.65-75.&#x20;
+\[3] Milchenko, M. and Marcus, D., 2013_. Obscuring surface anatomy in volumetric imaging data_. Neuroinformatics, 11(1), pp.65-75. Accessed from: [_https://link.springer.com/article/10.1007/s12021-012-9160-3_](https://link.springer.com/article/10.1007/s12021-012-9160-3)
 
-\[4] Fischl, B., Salat, D.H., Busa, E., Albert, M., Dieterich, M., Haselgrove, C., Van Der Kouwe, A., Killiany, R., Kennedy, D., Klaveness, S. and Montillo, A., 2002. `Whole brain segmentation: automated labeling of neuroanatomical structures in the human brain <http://www.sciencedirect.com/science/article/pii/S089662730200569X>`\_. Neuron, 33(3), pp.341-355.
+\[4] Fischl, B., Salat, D.H., Busa, E., Albert, M., Dieterich, M., Haselgrove, C., Van Der Kouwe, A., Killiany, R., Kennedy, D., Klaveness, S. and Montillo, A., 2002. Whole brain segmentation: automated labeling of neuroanatomical structures in the human brain. Neuron, 33(3), pp.341-355. Accessed from: [http://www.sciencedirect.com/science/article/pii/S089662730200569X](http://www.sciencedirect.com/science/article/pii/S089662730200569X)

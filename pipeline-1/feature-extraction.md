@@ -2,7 +2,7 @@
 
 ### Why is this done?
 
-Feature extraction involves identifying and quantifying specific characteristics within the image. These features can be:
+Feature extraction in medical image analysis is crucial for transforming raw image data into meaningful information that can be used for diagnosis, classification, and prediction. By identifying and isolating relevant features, enhancing the accuracy and efficiency of subsequent tasks. These features can be:
 
 * **Shape Features**: Describing the geometry of structures (e.g., area, perimeter, compactness).
 * **Texture Features**: Analyzing the texture patterns within the image (e.g., contrast, entropy).
@@ -10,13 +10,24 @@ Feature extraction involves identifying and quantifying specific characteristics
 
 ### How is it done?
 
-Can we reduce the number of features to decrease the model complexity and the computational burden.
+Feature extraction in medical image analysis involves several key steps and techniques. Here are some well researched methods:
+
+* **Local Binary Patterns (LBP)**: Captures texture features by comparing pixel intensities.
+* **Gray-Level Co-occurrence Matrix (GLCM)**: Analyzes spatial relationships between pixels to extract texture features.
+* **Gray-Level Run-Length Matrix (GLRM)**: Measures the length of consecutive pixels with the same intensity.
+* **Completed Local Binary Patterns (CLBP)**: An extension of LBP that includes additional information about pixel intensity variations.
+* **Feature Fusion**: Combining multiple features to improve the accuracy and robustness of the analysis.
+* **Deep Learning Approaches**: Utilizes neural networks to automatically learn and extract features from images.
+
+### Project ideas
+
+A typical optimization for faster processing is to check if we can reduce the number of features to decrease the model complexity and the computational burden. Some steps in this direction could include:
 
 * Decision forest feature importance
 * Principal component analysis (PCA)
 * Mutual information based feature selection
 
-What features could be used to improve our model?
+Furthermore, what features could be used to improve our model?
 
 * Investigate other features
   * Hemisphere feature
@@ -26,13 +37,11 @@ What features could be used to improve our model?
 
 ### Coding Resources
 
-`scikit-image feature module <http://scikit-image.org/docs/dev/api/skimage.feature.html>`\_
+[scikit-image](https://scikit-image.org/docs/dev/api/skimage.feature.html): feature module
 
-`scikit-learn: Dimensionality reduction <http://scikit-learn.org/stable/modules/decomposition.html#decompositions>`\_
+[scikit-learn](http://scikit-learn.org/stable/modules/decomposition.html#decompositions): Dimensionality reduction
 
-`Parallelized Mutual Information based Feature Selection <https://github.com/danielhomola/mifs>`\_
-
-TODO: also list project ideas in this component.
+[Parallelized Mutual Information](https://github.com/danielhomola/mifs) based Feature Selection
 
 ### References
 
