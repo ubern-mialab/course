@@ -60,7 +60,7 @@ Editors
 * [TeXstudio](http://www.texstudio.org/): Desktop editor \[Win, Mac, Linux]
 * [Texmaker](http://www.xm1math.net/texmaker/): Desktop editor \[Win, Mac, Linux]
 
-Distributions
+LaTeX Distributions:
 
 (not needed with Overleaf)
 
@@ -88,6 +88,8 @@ Management
 * [Asana](https://asana.com/): Task management tool
 
 ### Server Transactions
+
+See more about using [Ubelix HPC here](ubelix-hpc.md).
 
 SSH Clients
 
