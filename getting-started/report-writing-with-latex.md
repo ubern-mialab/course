@@ -1,4 +1,4 @@
-# LaTeX
+# Report writing with LaTeX
 
 **LaTeX** (pronounced “LAY-tek” or “LAH-tek”) is a tool for creating professional-looking documents. Unlike programs like Microsoft Word or LibreOffice Writer, where you type and style text directly on the page, LaTeX works differently. You write your document as a plain text file with special commands to format it. Read more about typesetting here:  [https://www.overleaf.com/learn/latex/Learn\_LaTeX\_in\_30\_minutes](https://www.overleaf.com/learn/latex/Learn\_LaTeX\_in\_30\_minutes)
 
@@ -24,7 +24,7 @@ The $ sign is used to format mathematical content, and can be used in-text too. 
 
 Please also consider using the \centering command while including graphics and tables, so they are properly justified.&#x20;
 
-Please also consider using the \cite, \label and \ref commands appropriately while citing papers or resources from the references, and also pointing to other parts of your report (refer to Section \ref{section-one}, where "section-one" is properly labeled, for example).
+Please also consider using the \cite, \label and \ref commands appropriately while citing papers or resources from the references, and also at to other parts of your report (refer to Section \ref{section-one}, where "section-one" is properly labeled, for example).
 
 If you have tables in the report, please consider using this table generator instead of hand-rolling one: [https://www.tablesgenerator.com/#google\_vignette](https://www.tablesgenerator.com/#google\_vignette)&#x20;
 
