@@ -1,6 +1,6 @@
 # Installation
 
-## Installation
+## Python Installation
 
 To start with the installation, download the [Anaconda installer](https://www.anaconda.com/distribution/) for your operating system with Python >= 3.8.
 
@@ -170,3 +170,11 @@ Execute the installation test script to verify if all the dependencies are setup
 ```
 python ./test/test_install.py
 ```
+
+### Setting up the IDE
+
+Next, move to the [IDE page](ide.md) to setup your favorite development environment to be maximally productive with the code involved with this course!&#x20;
+
+## MATLAB Installation:
+
+Follow the instructions on the [MathWorks website](https://ch.mathworks.com/academia/tah-portal/universitat-bern-40639324.html) to install MATLAB on your computer. Operating System specific requirements are [here](https://ch.mathworks.com/support/requirements/matlab-system-requirements.html). Once you have MATLAB installed, read through the [MATLAB section of the IDE page ](ide.md#matlab)to learn more about working with this program.

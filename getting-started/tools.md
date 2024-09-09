@@ -4,7 +4,7 @@ description: This page lists software tools and libraries to be familiar with.
 
 # Tools
 
-Python
+### **Python**
 
 * We use [Python 3.8](https://docs.python.org/3.8/) or later inside an [Anaconda](https://www.anaconda.com/) environment.
 
@@ -51,18 +51,11 @@ GUI Clients
 [This page](latex.md) has more details about LaTeX.
 
 * [LaTeX Guide](https://en.wikibooks.org/wiki/LaTeX): Installation, basics, elements, etc.
-
-{% file src="../.gitbook/assets/latexsheet.pdf" %}
-
-Editors
-
 * [Overleaf](https://www.overleaf.com/): _highly recommended_; Online LaTeX editor, collaborative writing, and publishing tool
 * [TeXstudio](http://www.texstudio.org/): Desktop editor \[Win, Mac, Linux]
 * [Texmaker](http://www.xm1math.net/texmaker/): Desktop editor \[Win, Mac, Linux]
 
-LaTeX Distributions:
-
-(not needed with Overleaf)
+LaTeX Distributions (not needed with Overleaf):
 
 * [TeX Live](https://www.tug.org/texlive/): \[Win, Linux]
 * [MiKTeX](https://miktex.org/): \[Win]
