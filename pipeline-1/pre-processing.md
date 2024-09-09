@@ -11,7 +11,7 @@ Common preprocessing steps include:
 * **Resampling**: Adjusting the image resolution to ensure consistency across different images.
 * **Segmentation**: Isolating regions of interest (e.g., organs, tumors) from the background.
 
-### How is it typically done?
+### How is it done?
 
 Some well understood algorithms in this step include:&#x20;
 
