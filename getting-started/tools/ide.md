@@ -24,7 +24,7 @@ Follow the [instructions](https://www.jetbrains.com/help/pycharm/requirements-in
 
 For more help, watch the [getting started](https://www.jetbrains.com/pycharm/documentation/) videos to get accustomed with the interface.
 
-### **MIAlab in PyCharm**
+#### MIA Lab in PyCharm
 
 To open the MIA Lab as project and to configure the Python interpreter do the following:
 
@@ -53,7 +53,7 @@ To open the MIA Lab as project and to configure the Python interpreter do the fo
 
 Microsoft has a [detailed introductory course ](https://learn.microsoft.com/en-us/training/modules/introduction-to-visual-studio-code/)on Visual Studio Code, describing all the relevant features you would likely use in this course.&#x20;
 
-### **MIAlab in VS Code**
+#### MIA Lab in VS Code
 
 TODO
 
@@ -73,6 +73,6 @@ The **MATLAB Integrated Development Environment (IDE)** from MathWorks is an eas
 
 [Here is an introductory video](https://ch.mathworks.com/videos/introduction-to-matlab-1621968498775.html) describing MATLAB and more features to help you be more productive in your exploration of this course.
 
-### **MIAlab in MATLAB**
+#### MIA Lab in MATLAB
 
 TODO
