@@ -1,8 +1,25 @@
-# Visualization
+# Visualization for Figures and Presentation
 
-Please consider using the Uni Bern presentation template, from [here](https://ilias.unibe.ch/ilias.php?baseClass=ilrepositorygui\&ref\_id=2042661). Be mindful that the technical content matters significantly more than the presentation aesthetic, and hence minimalistic designs and appropriate time investments in these directions are preferred. It is vital that the level of detail and content must match the experience of the audience/readers. The report you write is technical in nature, hence there is no need to be verbose. However, clarity of results and unambiguous interpretation of metrics and numbers are imperative. To this end, here are some typical elements of the report from a data visualization perspective that we would recommend keeping in mind:
+Please consider using the Uni Bern presentation template, from [here](https://ilias.unibe.ch/ilias.php?baseClass=ilrepositorygui\&ref\_id=2042661). Be mindful that the technical content matters significantly more than the presentation aesthetic, and hence minimalistic designs and appropriate time investments in these directions are preferred. It is vital that the level of detail and content must match the experience of the audience/readers. The report you write is technical in nature, hence there is no need to be verbose. However, clarity of results and unambiguous interpretation of metrics and numbers are imperative.&#x20;
 
+We strongly recommend reading this short and insightful paper "[Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article%3Fid=10.1371/journal.pcbi.1003833)" by Rougier et. al., and reproduce their simple rules here for completeness:
 
+1. Know your audience
+2. Identify your message&#x20;
+3. Adapt the figure to the support medium
+4. Captions are NOT optional
+5. Do not trust the defaults
+6. Use colors effectively
+7. Do not mislead the reader
+8. Avoid "chartjunk"
+9. Message trumps beauty
+10. Use the right tools
+
+This fabulous paper is included in the link below:
+
+{% file src="../.gitbook/assets/ten_simple_rules.pdf" %}
+
+With this context, here are some typical elements of the report from a data visualization perspective that we would recommend keeping in mind:
 
 ### **Figure 1: graphical abstract**
 
@@ -18,8 +35,6 @@ Remember to include labels for all axes in a plot, and include tick labels to in
 
 Also consider highlighting specific results in the plot that you would like to discuss and present supporting (or disproving) your hypothesis. In the example above, the mean DSC and HD95 is indicated with a dashed red line, and this is described further in the text of the report. We appreciate this level of detail.&#x20;
 
-
-
 ### **Tips**
 
 From our past experience, here are three specific suggestions for visualizations and figures in your report:
@@ -31,3 +46,4 @@ From our past experience, here are three specific suggestions for visualizations
 ### **Final Presentation template (.pptx):**
 
 {% file src="../.gitbook/assets/mialab-presentation-template.pptx" %}
+
