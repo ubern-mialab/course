@@ -48,10 +48,10 @@ Follow the instructions on the [official website](https://docs.anaconda.com/anac
 conda list # which should list all installed Anaconda packages
 ```
 
-Create a new Python 3.8 environment with the name mialab (confirm with \``` y` `` when promoted during creation)
+Create a new Python 3.10 environment with the name mialab (confirm with \``` y` `` when promoted during creation)
 
 ```
-conda create -n mialab python=3.8
+conda create -n mialab python=3.10
 ```
 
 Activate the environment:
@@ -93,10 +93,10 @@ Verify the installation - Open "Anaconda Prompt"
 conda list #which should list all installed Anaconda packages
 ```
 
-Create a new Python 3.8 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
+Create a new Python 3.10 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
 
 ```
-conda create -n mialab python=3.8
+conda create -n mialab python=3.10
 ```
 
 Activate the environment by
@@ -142,10 +142,10 @@ Follow the instructions on the [official website](https://docs.anaconda.com/anac
 conda list # which should list all installed Anaconda packages
 ```
 
-Create a new Python 3.8 environment with the name mialab (confirm with \``` y` `` when promoted during creation)
+Create a new Python 3.10 environment with the name mialab (confirm with \``` y` `` when promoted during creation)
 
 ```
-conda create -n mialab python=3.8
+conda create -n mialab python=3.10
 ```
 
 Activate the environment by
